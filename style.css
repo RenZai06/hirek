@@ -1,0 +1,28 @@
+header{
+    text-align: center;
+    padding: 20px;
+}
+
+body{
+    background-color: bisque;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+article{
+    background-color: lightblue;
+    border-radius: 8px ;
+}
+
+article h2 {
+    color: brown;
+}
+
+nav ul li {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s;
+    display: inline;
+    margin: 0 10px;
+    text-align: center;
+}
